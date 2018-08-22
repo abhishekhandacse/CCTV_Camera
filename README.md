@@ -4,8 +4,8 @@
 
 ### Main Features
   - 30 days storage facility
-  -- Automatic overwritting of videos after 30 days 
-  -- Last 30 days data always preserved
+  - Automatic overwritting of videos after 30 days 
+  - Last 30 days data always preserved
 
 #### Future scope
 - To attach steppor motor and make it rotote 360 degree
